@@ -28,7 +28,7 @@ Chain Weather Report
 
 News & Announcements
 --------------------
-
+1st news item
 
 Discussion
 ----------
