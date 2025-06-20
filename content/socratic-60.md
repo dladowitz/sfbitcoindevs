@@ -28,8 +28,8 @@ Chain Weather Report
 
 News & Announcements
 --------------------
-1st news item
-2nd news item
+- 1st news item
+- 2nd news item
 
 Discussion
 ----------
